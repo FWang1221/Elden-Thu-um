@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<grammar version="1.0" xml:lang="en-US"  
+         xmlns="http://www.w3.org/2001/06/grammar"  
+         tag-format="semantics/1.0" root="Main">  
+
+  <!-- cities.xml:   
+    Defines an SRGS grammar for requesting a flight. This grammar includes  
+    a Cities rule that lists the cities that can be used for departures  
+    and destinations. -->  
+
+  <rule id="Main">  
+    <one-of>
+      <item>  
+        Cast <ruleref uri="#Spells"/>
+      </item>  
+    </one-of>
+  </rule>  
+
+  <rule id="Spells" scope="public">  
+    <one-of>  
+<item>Glintstone Pebble</item>
+<item>Great Glintstone Shard</item>
+<item>Swift Glintstone Shard</item>
+<item>Glintstone Cometshard</item>
+<item>Comet</item>
+<item>Shard Spiral</item>
+<item>Glintstone Stars</item>
+<item>Star Shower</item>
+<item>Crystal Barrage</item>
+<item>Glintstone Arc</item>
+<item>Cannon Of Haima</item>
+<item>Crystal Burst</item>
+<item>Shatter Earth</item>
+<item>Rock Blaster</item>
+<item>Gavel Of Haima</item>
+<item>Terra Magicus</item>
+<item>Comet Azur</item>
+<item>Founding Rain Of Stars</item>
+<item>Stars Of Ruin</item>
+<item>Glintblade Phalanx</item>
+<item>Carian Phalanx</item>
+<item>Greatblade Phalanx</item>
+<item>Rennala's Full Moon</item>
+<item>Ranni's Dark Moon</item>
+<item>Magic Downpour</item>
+<item>Loretta's Greatbow</item>
+<item>Loretta's Mastery</item>
+<item>Magic Glintblade</item>
+<item>Glintstone Icecrag</item>
+<item>Zamor Ice Storm</item>
+<item>Freezing Mist</item>
+<item>Shattering Crystal</item>
+<item>Crystal Release</item>
+<item>Crystal Torrent</item>
+<item>Ambush Shard</item>
+<item>Night Shard</item>
+<item>Night Comet</item>
+<item>Thops's Barrier</item>
+<item>Carian Retaliation 1</item>
+<item>Carian Retaliation 2</item>
+<item>Carian Retaliation 3</item>
+<item>Eternal Darkness</item>
+<item>Meteorite</item>
+<item>Meteorite Of Astel</item>
+<item>Rock Sling</item>
+<item>Gravity Well</item>
+<item>Collapsing Stars</item>
+<item>Magma Shot</item>
+<item>Gelmir's Fury</item>
+<item>Roiling Magma</item>
+<item>Rykard's Rancor</item>
+<item>Briars Of Sin</item>
+<item>Briars Of Punishment</item>
+<item>Rancorcall</item>
+<item>Ancient Death Rancor</item>
+<item>Explosive Ghostflame</item>
+<item>Fia's Mist</item>
+<item>Tibia's Summons</item>
+<item>Death Lightning</item>
+<item>Oracle Bubbles</item>
+<item>Great Oracular Bubble</item>
+<item>Catch Flame</item>
+<item>O Flame</item>
+<item>Flame Sling</item>
+<item>Flame Fall Upon Them</item>
+<item>Whirl O Flame</item>
+<item>Flame Cleanse Me</item>
+<item>Flame Grant Me Strength</item>
+<item>Flame Protect Me</item>
+<item>Giantsflame Take Thee</item>
+<item>Flame Of The Fell God</item>
+<item>Burn O Flame</item>
+<item>Black Flame</item>
+<item>Surge O Flame</item>
+<item>Scouring Black Flame</item>
+<item>Black Flame Ritual</item>
+<item>Black Flame Blade</item>
+<item>Black Flame's Protection</item>
+<item>Noble Presence</item>
+<item>Bloodflame Talons</item>
+<item>Bloodboon</item>
+<item>Bloodflame Blade</item>
+<item>Barrier Of Gold</item>
+<item>Protection Of The Erdtree</item>
+<item>Rejection</item>
+<item>Wrath Of Gold</item>
+<item>Urgent Heal</item>
+<item>Heal</item>
+<item>Great Heal</item>
+<item>Lord's Heal</item>
+<item>Erdtree Heal</item>
+<item>Blessing's Boon</item>
+<item>Blessing Of The Erdtree</item>
+<item>Cure Poison</item>
+<item>Lord's Aid</item>
+<item>Lord's Divine Fortification</item>
+<item>Night Maiden's Mist</item>
+<item>Shadow Bait</item>
+<item>Darkness</item>
+<item>Golden Vow</item>
+<item>Discus Of Light</item>
+<item>Triple Rings Of Light</item>
+<item>Radagon's Rings Of Light</item>
+<item>Elden Stars</item>
+<item>Law Of Regression</item>
+<item>Litany Of Proper Death</item>
+<item>Law Of Causality</item>
+<item>Order Healing</item>
+<item>Bestial Sling</item>
+<item>Stone Of Gurranq</item>
+<item>Beast Claw</item>
+<item>Gurranq's Beast Claw</item>
+<item>Bestial Constitution</item>
+<item>Lightning Spear</item>
+<item>Ancient Dragons' Light Strike</item>
+<item>Lightning Strike</item>
+<item>Frozen Lightning Spear</item>
+<item>Honed Bolt</item>
+<item>Ancient Dragons' Light Spear</item>
+<item>Fortissax's Light Spear</item>
+<item>Lansseax's Glaive</item>
+<item>Dragonfire</item>
+<item>Agheel's Flame</item>
+<item>Magma Breath</item>
+<item>Theodorix's Magma</item>
+<item>Dragonice</item>
+<item>Borealis's Mist</item>
+<item>Rotten Breath</item>
+<item>Ekzykes's Decay</item>
+<item>Glintstone Breath</item>
+<item>Smarag's Glint Breath</item>
+<item>Placidusax's Ruin</item>
+<item>Dragonclaw</item>
+<item>Dragonmaw</item>
+<item>Greyoll's Roar</item>
+<item>Pest Threads</item>
+<item>Swarm Of Flies</item>
+<item>Poison Mist</item>
+<item>Scarlet Aeonia</item>
+<item>Inescapable Frenzy</item>
+<item>The Flame Of Frenzy</item>
+<item>Unendurable Frenzy</item>
+<item>Frenzied Burst</item>
+<item>Howl Of Shabriri</item>
+<item>Aspects of the Crucible Tail</item>
+<item>Aspects of the Crucible Horns</item>
+<item>Aspects of the Crucible Breath</item>
+<item>Black Blade</item>
+<item>Golden Light Fortification</item>
+<item>Stonesword Key</item>
+<item>Briars Of Punishment</item>
+    </one-of>  
+  </rule>
+</grammar>  

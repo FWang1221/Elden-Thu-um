@@ -1,0 +1,8 @@
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\bin\Debug\THUUM.exe.config
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\bin\Debug\THUUM.exe
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\bin\Debug\THUUM.pdb
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\obj\Debug\THUUM.csproj.AssemblyReference.cache
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\obj\Debug\THUUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\obj\Debug\THUUM.csproj.CoreCompileInputs.cache
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\obj\Debug\THUUM.exe
+C:\Users\Francis Wang\source\repos\THUUM\THUUM\obj\Debug\THUUM.pdb

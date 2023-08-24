@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THUUM", "THUUM\THUUM.csproj", "{A3A51AE8-0D94-4B5C-A705-87A9C087759A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A51AE8-0D94-4B5C-A705-87A9C087759A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A51AE8-0D94-4B5C-A705-87A9C087759A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A51AE8-0D94-4B5C-A705-87A9C087759A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A51AE8-0D94-4B5C-A705-87A9C087759A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98C5402-8E3C-4386-84BC-A2CFACCB854E}
+	EndGlobalSection
+EndGlobal

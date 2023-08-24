@@ -1,0 +1,151 @@
+Glintstone Pebble,7200000
+Great Glintstone Shard,7200001
+Swift Glintstone Shard,7200002
+Glintstone Cometshard,7200003
+Comet,7200004
+Shard Spiral,7200005
+Glintstone Stars,7200006
+Star Shower,7200007
+Crystal Barrage,7200008
+Glintstone Arc,7200009
+Cannon Of Haima,7200010
+Crystal Burst,7200011
+Shatter Earth,7200012
+Rock Blaster,7200013
+Gavel Of Haima,7200014
+Terra Magicus,7200015
+Comet Azur,7200016
+Founding Rain Of Stars,7200017
+Stars Of Ruin,7200018
+Glintblade Phalanx,7200019
+Carian Phalanx,7200020
+Greatblade Phalanx,7200021
+Rennala's Full Moon,7200022
+Ranni's Dark Moon,7200023
+Magic Downpour,7200024
+Loretta's Greatbow,7200025
+Loretta's Mastery,7200026
+Magic Glintblade,7200027
+Glintstone Icecrag,7200028
+Zamor Ice Storm,7200029
+Freezing Mist,7200030
+Shattering Crystal,7200031
+Crystal Release,7200032
+Crystal Torrent,7200033
+Ambush Shard,7200034
+Night Shard,7200035
+Night Comet,7200036
+Thops's Barrier,7200037
+Carian Retaliation 1,7200038
+Carian Retaliation 2,7200039
+Carian Retaliation 3,7200040
+Eternal Darkness,7200041
+Meteorite,7200042
+Meteorite Of Astel,7200043
+Rock Sling,7200044
+Gravity Well,7200045
+Collapsing Stars,7200046
+Magma Shot,7200047
+Gelmir's Fury,7200048
+Roiling Magma,7200049
+Rykard's Rancor,7200050
+Briars Of Sin,7200051
+Briars Of Punishment,7200052
+Rancorcall,7200053
+Ancient Death Rancor,7200054
+Explosive Ghostflame,7200055
+Fia's Mist,7200056
+Tibia's Summons,7200057
+Death Lightning,7200058
+Oracle Bubbles,7200059
+Great Oracular Bubble,7200060
+Catch Flame,7200061
+O Flame,7200062
+Flame Sling,7200063
+Flame Fall Upon Them,7200064
+Whirl O Flame,7200065
+Flame Cleanse Me,7200066
+Flame Grant Me Strength,7200067
+Flame Protect Me,7200068
+Giantsflame Take Thee,7200069
+Flame Of The Fell God,7200070
+Burn O Flame,7200071
+Black Flame,7200072
+Surge O Flame,7200073
+Scouring Black Flame,7200074
+Black Flame Ritual,7200075
+Black Flame Blade,7200076
+Black Flame's Protection,7200077
+Noble Presence,7200078
+Bloodflame Talons,7200079
+Bloodboon,7200080
+Bloodflame Blade,7200081
+Barrier Of Gold,7200082
+Protection Of The Erdtree,7200083
+Rejection,7200084
+Wrath Of Gold,7200085
+Urgent Heal,7200086
+Heal,7200087
+Great Heal,7200088
+Lord's Heal,7200089
+Erdtree Heal,7200090
+Blessing's Boon,7200091
+Blessing Of The Erdtree,7200092
+Cure Poison,7200093
+Lord's Aid,7200094
+Lord's Divine Fortification,7200095
+Night Maiden's Mist,7200096
+Shadow Bait,7200097
+Darkness,7200098
+Golden Vow,7200099
+Discus Of Light,7200100
+Triple Rings Of Light,7200101
+Radagon's Rings Of Light,7200102
+Elden Stars,7200103
+Law Of Regression,7200104
+Litany Of Proper Death,7200105
+Law Of Causality,7200106
+Order Healing,7200107
+Bestial Sling,7200108
+Stone Of Gurranq,7200109
+Beast Claw,7200110
+Gurranq's Beast Claw,7200111
+Bestial Constitution,7200112
+Lightning Spear,7200113
+Ancient Dragons' Light Strike,7200114
+Lightning Strike,7200115
+Frozen Lightning Spear,7200116
+Honed Bolt,7200117
+Ancient Dragons' Light Spear,7200118
+Fortissax's Light Spear,7200119
+Lansseax's Glaive,7200120
+Dragonfire,7200121
+Agheel's Flame,7200122
+Magma Breath,7200123
+Theodorix's Magma,7200124
+Dragonice,7200125
+Borealis's Mist,7200126
+Rotten Breath,7200127
+Ekzykes's Decay,7200128
+Glintstone Breath,7200129
+Smarag's Glint Breath,7200130
+Placidusax's Ruin,7200131
+Dragonclaw,7200132
+Dragonmaw,7200133
+Greyoll's Roar,7200134
+Pest Threads,7200135
+Swarm Of Flies,7200136
+Poison Mist,7200137
+Scarlet Aeonia,7200138
+Inescapable Frenzy,7200139
+The Flame Of Frenzy,7200140
+Unendurable Frenzy,7200141
+Frenzied Burst,7200142
+Howl Of Shabriri,7200143
+Aspects of the Crucible Tail,7200144
+Aspects of the Crucible Horns,7200145
+Aspects of the Crucible Breath,7200146
+Black Blade,7200147
+Golden Light Fortification,7200148
+Stonesword Key,7200149
+Briars Of Punishment,7200150
